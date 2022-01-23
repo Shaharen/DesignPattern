@@ -8,7 +8,7 @@ import javax.servlet.http.HttpServletResponse;
 
 public class DeleteService implements Command{
 	public void execute(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-		System.out.println("µ•¿Ã≈Õ ªË¡¶ º∫∞¯");
+		System.out.println("Îç∞Ïù¥ÌÑ∞ ÏÇ≠Ï†ú ÏÑ±Í≥µ");
 	}
 
 }
