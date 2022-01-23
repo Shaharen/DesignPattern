@@ -10,7 +10,7 @@ public class UpdateService implements Command{
 
 	@Override
 	public void execute(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-		System.out.println("µ¥ÀÌÅÍ ¼öÁ¤ ¼º°ø");
+		System.out.println("ë°ì´í„° ìˆ˜ì • ì„±ê³µ");
 	}
 
 }
