@@ -10,7 +10,7 @@ public class InsertService implements Command{
 
 	@Override
 	public void execute(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-		System.out.println("µ•¿Ã≈Õ √ﬂ∞° º∫∞¯");
+		System.out.println("Îç∞Ïù¥ÌÑ∞ Ï∂îÍ∞Ä ÏÑ±Í≥µ");
 	}
 
 }
