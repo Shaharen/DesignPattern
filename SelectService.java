@@ -10,7 +10,7 @@ public class SelectService implements Command{
 
 	@Override
 	public void execute(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-		System.out.println("µ¥ÀÌÅÍ Á¶È¸ ¼º°ø");
+		System.out.println("ë°ì´í„° ì¡°íšŒ ì„±ê³µ");
 	}
 
 }
